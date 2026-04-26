@@ -1,3 +1,7 @@
-text = "Python is awesome"
+# text = "Python is awesome"
+# length = len(text)
+# print("Length of the string:", length)
+
+text = "Hii my name is dipendra rayamajhi"
 length = len(text)
-print("Length of the string:", length)
+print("length of the string is", length)
